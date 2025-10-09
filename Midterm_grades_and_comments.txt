@@ -1,0 +1,40 @@
+Part I Grades: 27
+Part II Grading Rubrics:
+Problem 1:
+- Task 1.1:     2 out of 3 points
+- Task 1.2:     2 out of 3 points
+- Task 1.3:     2 out of 3 points
+- Task 1.4:     3 out of 3 points
+- Task 1.5:     2 out of 3 points
+
+Problem 2:
+- Task 2.1:     3 out of 3 points
+- Task 2.2:     3 out of 4 points
+- Task 2.3:     8 out of 8 points
+
+Problem 3:
+- Task 3.1:     2 out of 2 points
+- Task 3.2:     3 out of 3 points
+- Task 3.3:     3 out of 3 points
+- Task 3.4:     2 out of 3 points
+- Task 3.5:     3 out of 3 points
+- Task 3.6:     3 out of 3 points
+- Task 3.7:     2 out of 3 points
+
+Problem 4:
+- Task 4.1:     4 out of 4 points
+- Task 4.2:     4 out of 4 points
+- Task 4.3:     4 out of 4 points
+- Task 4.4:     4 out of 4 points
+- Task 4.5:     5 out of 5 points
+
+Part II: Total Grades: 63 out of 35
+
+Details:
+1. Line 11 to Line 21: Use split
+2. Line 28: Use replace
+3. Line 42-46: add these numbers together and you have your weighted average
+4. Line 52: average = the four numbers added together
+5. Line 59 - 70: No need for iteration
+6. Line 102: Remove at position 1
+7. Line 122: Better use numbers[:-1]
