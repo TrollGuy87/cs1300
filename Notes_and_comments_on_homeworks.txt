@@ -1,0 +1,15 @@
+Homework 2: 100 out of 100
+    Line 88, 94--no need for i in range(1):
+Homework 4: 100 out of 100
+    Line 117: python usually uses all lowercase word connected by underscores for variable names
+Homework 5: 99 out of 100
+    Line 61: night_adjust is already caculated
+    Line 180: no need for parentheses
+Homework 6: 95 out of 100
+    Line 203: [1::2]
+    Line 209: [: len(alphabet) // 2]
+    Line 210: [len(alphabet) // 2 :]
+    Line 421-425: remove will remove the first occurrence
+    Line 444: no need for loop
+Homework 7: 75 out of 75
+Homework 8: 80 out of 80
